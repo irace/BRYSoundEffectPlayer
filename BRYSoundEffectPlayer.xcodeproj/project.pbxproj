@@ -49,7 +49,7 @@
 		93B706B71866116C00565854 = {
 			isa = PBXGroup;
 			children = (
-				93B706C51866116C00565854 /* BRYSoundEffectPlayer */,
+				93B706C51866116C00565854 /* Classes */,
 				93B706C21866116C00565854 /* Frameworks */,
 				93B706C11866116C00565854 /* Products */,
 			);
@@ -73,13 +73,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		93B706C51866116C00565854 /* BRYSoundEffectPlayer */ = {
+		93B706C51866116C00565854 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				93B706C81866116C00565854 /* BRYSoundEffectPlayer.h */,
 				93B706CA1866116C00565854 /* BRYSoundEffectPlayer.m */,
 			);
-			path = BRYSoundEffectPlayer;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
