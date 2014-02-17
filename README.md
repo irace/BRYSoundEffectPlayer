@@ -1,12 +1,12 @@
 # BRYSoundEffectPlayer
 
-Convenience wrapper around some of Apple's Audio Service functions used for playing sound effects.
+Convenience wrapper around some of Apple's Audio Service functions used for playing sound effects. To see an application built on top of `BRYSoundEffectPlayer`, check out [soundboard](https://github.com/irace/soundboard).
 
 ## Installation
 
 Via [CocoaPods](http://cocoapods.org), of course:
 
-    pod install BRYSoundEffectsPlayer
+    pod install BRYSoundEffectPlayer
 
 ## Usage
 
